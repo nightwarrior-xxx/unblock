@@ -23,3 +23,12 @@ Content to be unblocked from Cyberoam
 - **URL**: http://pwnable.kr/
 - **Blocked Under**: Games
 - **About**: 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. This could provide a boon to security enthusiasts.
+
+### 5.IRC
+- **Clients**:HexChat,WeeChat,XChat Riot.im etc. 
+- **Wikipedia**: Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on 3rd party server. These clients communicate with chat servers to transfer messages to other clients. IRC is mainly designed for group communication in discussion forums, called channels, but also allows one-on-one communication via private messages as well as chat and data transfer, including file sharing.
+- **About**: IRC allows developers to communicate over interent with the communities that are responsible for the maintaince as well as development of various technologies.It is the primary communication platform of various OpenSource Commuinities on channels like #Ubuntu,#python,#linux etc.
+
+### 6.Thunder Bird
+- **Wikipedia**: Mozilla Thunderbird is a free and open-source cross-platform email client, news client, RSS and chat client developed by the Mozilla Foundation. The project strategy was modeled after that of the Mozilla Firefox web browser. It is installed by default on Ubuntu desktop systems. 
+- **About**: Thunderbird is a free email application that’s easy to set up and customise - and it’s loaded with great features!
