@@ -23,3 +23,7 @@ Content to be unblocked from Cyberoam
 - **URL**: http://pwnable.kr/
 - **Blocked Under**: Games
 - **About**: 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. This could provide a boon to security enthusiasts.
+
+### 5.IRC:-
+-**About**:-Internet Relay Chat is an application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on 3rd party server.The freenode network can be accessed via the freenode webchat or using an IRC client such as irssi, WeeChat, ERC, HexChat, Smuxi, Quassel or mIRC.
+-**Ports**:-ports '6665-6667' and '8000-8002' for plain-text connections,and  ports '6697', '7000' and '7070' for SSL-encrypted connections.
