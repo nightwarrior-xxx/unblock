@@ -21,6 +21,7 @@ Content to be unblocked from Cyberoam
 ### 4. Overthewire.org
 - **URL**: http://overthewire.org/
 - **Blocked Under**: Games
+- **Ports**:2220,2221,2222,2223,2224,2225,2226,2227,2229,5842.
 - **About**: The challenges offered by the OverTheWire community help us to learn and practice security concepts in the form of fun-filled games.One of its challenges Bandits is a great resource for beginners to start learning the command line in a fun and easy way.
 
 ### 5.Quora CDN
@@ -34,4 +35,4 @@ Content to be unblocked from Cyberoam
 
 ### 7.SSH
 - **About**:-SSH i.e. Secure Socket Shell, is a network protocol that provides users with a secure way to access a remote computer.It provides strong,authenticated and secure encrypted data communications between two computers connecting over an insecure network like the Internet.It is widely used by network administrators for managing systems and applications remotely.
-- **Ports** :Ports '22 and 2220'.
+- **Ports** :Port '22'.
